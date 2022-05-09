@@ -1,5 +1,4 @@
 # Daily-Learning-Log
 Let’s write daily learning things 
 
-- 2022 May
-- [CocoaPods](http://cocoapods.org)
+- [2022 May](https://github.com/superbderrick/Daily-Learning-Log/blob/main/2022_05.md)
